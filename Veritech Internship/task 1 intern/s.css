@@ -1,0 +1,9 @@
+h3{
+    background-image: linear-gradient(to right,#f9989f,#fccb8f,#faf09f);
+   font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+   margin-inline-end: 3%;
+   margin-trim: 2%;
+  
+}
